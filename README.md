@@ -1,4 +1,4 @@
-## 17 CVEs
+## 19 CVEs
 
 - [CVE-2023-50917](https://nvd.nist.gov/vuln/detail/CVE-2023-50917)
 - [CVE-2024-22899](https://nvd.nist.gov/vuln/detail/CVE-2024-22899)
@@ -17,3 +17,5 @@
 - [CVE-2024-30927](https://nvd.nist.gov/vuln/detail/CVE-2024-30927)
 - [CVE-2024-30928](https://nvd.nist.gov/vuln/detail/CVE-2024-30928)
 - [CVE-2024-30929](https://nvd.nist.gov/vuln/detail/CVE-2024-30929)
+- [CVE-2024-31818](https://nvd.nist.gov/vuln/detail/CVE-2024-31818)
+- [CVE-2024-31819](https://nvd.nist.gov/vuln/detail/CVE-2024-31819)
