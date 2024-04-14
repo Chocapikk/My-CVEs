@@ -1,21 +1,41 @@
-# 18 CVEs
+## 18 CVEs
 
-- [CVE-2023-50917](https://nvd.nist.gov/vuln/detail/CVE-2023-50917): MajorDoMo (aka Major Domestic Module) before 0662e5e allows command execution via thumb.php shell metacharacters. NOTE: this is unrelated to the Majordomo mailing-list manager.
-- [CVE-2024-22899](https://nvd.nist.gov/vuln/detail/CVE-2024-22899): Vinchin Backup & Recovery v7.2 was discovered to contain an authenticated remote code execution (RCE) vulnerability via the syncNtpTime function.
-- [CVE-2024-22900](https://nvd.nist.gov/vuln/detail/CVE-2024-22900): Vinchin Backup & Recovery v7.2 was discovered to contain an authenticated remote code execution (RCE) vulnerability via the setNetworkCardInfo function.
-- [CVE-2024-22901](https://nvd.nist.gov/vuln/detail/CVE-2024-22901): Vinchin Backup & Recovery v7.2 was discovered to use default MYSQL credentials.
-- [CVE-2024-22902](https://nvd.nist.gov/vuln/detail/CVE-2024-22902): Vinchin Backup & Recovery v7.2 was discovered to be configured with default root credentials.
-- [CVE-2024-22903](https://nvd.nist.gov/vuln/detail/CVE-2024-22903): Vinchin Backup & Recovery v7.2 was discovered to contain an authenticated remote code execution (RCE) vulnerability via the deleteUpdateAPK function.
-- [CVE-2024-25228](https://nvd.nist.gov/vuln/detail/CVE-2024-25228): Vinchin Backup and Recovery 7.2 and Earlier is vulnerable to Authenticated Remote Code Execution (RCE) via the getVerifydiyResult function in ManoeuvreHandler.class.php.
-- [CVE-2024-30920](https://nvd.nist.gov/vuln/detail/CVE-2024-30920): Description not available on NVD yet.
-- [CVE-2024-30921](https://nvd.nist.gov/vuln/detail/CVE-2024-30921): Description not available on NVD yet.
-- [CVE-2024-30922](https://nvd.nist.gov/vuln/detail/CVE-2024-30922): Description not available on NVD yet.
-- [CVE-2024-30923](https://nvd.nist.gov/vuln/detail/CVE-2024-30923): Description not available on NVD yet.
-- [CVE-2024-30924](https://nvd.nist.gov/vuln/detail/CVE-2024-30924): Description not available on NVD yet.
-- [CVE-2024-30925](https://nvd.nist.gov/vuln/detail/CVE-2024-30925): Description not available on NVD yet.
-- [CVE-2024-30926](https://nvd.nist.gov/vuln/detail/CVE-2024-30926): Description not available on NVD yet.
-- [CVE-2024-30927](https://nvd.nist.gov/vuln/detail/CVE-2024-30927): Description not available on NVD yet.
-- [CVE-2024-30928](https://nvd.nist.gov/vuln/detail/CVE-2024-30928): Description not available on NVD yet.
-- [CVE-2024-30929](https://nvd.nist.gov/vuln/detail/CVE-2024-30929): Description not available on NVD yet.
-- [CVE-2024-31818](https://nvd.nist.gov/vuln/detail/CVE-2024-31818): Directory Traversal vulnerability in DerbyNet v.9.0 allows a remote attacker to execute arbitrary code via the page parameter of the kiosk.php component.
-- [CVE-2024-31819](https://nvd.nist.gov/vuln/detail/CVE-2024-31819): An issue in WWBN AVideo v.12.4 through v.14.2 allows a remote attacker to execute arbitrary code via the systemRootPath parameter of the submitIndex.php component.
+- **CVE-2023-50917**
+  - **Link:** [NVD Detail](https://nvd.nist.gov/vuln/detail/CVE-2023-50917)
+  - **Description:** MajorDoMo (aka Major Domestic Module) before 0662e5e allows command execution via thumb.php shell metacharacters. NOTE: this is unrelated to the Majordomo mailing-list manager.
+
+- **CVE-2024-22899**
+  - **Link:** [NVD Detail](https://nvd.nist.gov/vuln/detail/CVE-2024-22899)
+  - **Description:** Vinchin Backup & Recovery v7.2 was discovered to contain an authenticated remote code execution (RCE) vulnerability via the syncNtpTime function.
+
+- **CVE-2024-22900**
+  - **Link:** [NVD Detail](https://nvd.nist.gov/vuln/detail/CVE-2024-22900)
+  - **Description:** Vinchin Backup & Recovery v7.2 was discovered to contain an authenticated remote code execution (RCE) vulnerability via the setNetworkCardInfo function.
+
+- **CVE-2024-22901**
+  - **Link:** [NVD Detail](https://nvd.nist.gov/vuln/detail/CVE-2024-22901)
+  - **Description:** Vinchin Backup & Recovery v7.2 was discovered to use default MYSQL credentials.
+
+- **CVE-2024-22902**
+  - **Link:** [NVD Detail](https://nvd.nist.gov/vuln/detail/CVE-2024-22902)
+  - **Description:** Vinchin Backup & Recovery v7.2 was discovered to be configured with default root credentials.
+
+- **CVE-2024-22903**
+  - **Link:** [NVD Detail](https://nvd.nist.gov/vuln/detail/CVE-2024-22903)
+  - **Description:** Vinchin Backup & Recovery v7.2 was discovered to contain an authenticated remote code execution (RCE) vulnerability via the deleteUpdateAPK function.
+
+- **CVE-2024-25228**
+  - **Link:** [NVD Detail](https://nvd.nist.gov/vuln/detail/CVE-2024-25228)
+  - **Description:** Vinchin Backup and Recovery 7.2 and Earlier is vulnerable to Authenticated Remote Code Execution (RCE) via the getVerifydiyResult function in ManoeuvreHandler.class.php.
+
+- **CVE-2024-30920 to CVE-2024-30929**
+  - **Link:** [NVD Detail](https://nvd.nist.gov/vuln/detail/CVE-2024-30920) (and corresponding links for each)
+  - **Description:** Description not available on NVD yet.
+
+- **CVE-2024-31818**
+  - **Link:** [NVD Detail](https://nvd.nist.gov/vuln/detail/CVE-2024-31818)
+  - **Description:** Directory Traversal vulnerability in DerbyNet v.9.0 allows a remote attacker to execute arbitrary code via the page parameter of the kiosk.php component.
+
+- **CVE-2024-31819**
+  - **Link:** [NVD Detail](https://nvd.nist.gov/vuln/detail/CVE-2024-31819)
+  - **Description:** An issue in WWBN AVideo v.12.4 through v.14.2 allows a remote attacker to execute arbitrary code via the systemRootPath parameter of the submitIndex.php component.
