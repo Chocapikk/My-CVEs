@@ -28,9 +28,45 @@
   - **Link:** [NVD Detail](https://nvd.nist.gov/vuln/detail/CVE-2024-25228)
   - **Description:** Vinchin Backup and Recovery 7.2 and Earlier is vulnerable to Authenticated Remote Code Execution (RCE) via the getVerifydiyResult function in ManoeuvreHandler.class.php.
 
-- **CVE-2024-30920 to CVE-2024-30929**
-  - **Link:** [NVD Detail](https://nvd.nist.gov/vuln/detail/CVE-2024-30920) (and corresponding links for each)
-  - **Description:** Description not available on NVD yet.
+- **CVE-2024-30920**
+  - **Link:** [NVD Detail](https://nvd.nist.gov/vuln/detail/CVE-2024-30920)
+  - **Description:** Cross Site Scripting vulnerability in DerbyNet v9.0 and below allows a remote attacker to execute arbitrary code via the render-document.php component.
+
+- **CVE-2024-30921**
+  - **Link:** [NVD Detail](https://nvd.nist.gov/vuln/detail/CVE-2024-30921)
+  - **Description:** Cross Site Scripting vulnerability in DerbyNet v9.0 and below allows a remote attacker to execute arbitrary code via the photo.php component.
+
+- **CVE-2024-30922**
+  - **Link:** [NVD Detail](https://nvd.nist.gov/vuln/detail/CVE-2024-30922)
+  - **Description:** SQL Injection vulnerability in DerbyNet v9.0 allows a remote attacker to execute arbitrary code via the where Clause in Award Document Rendering.
+    
+- **CVE-2024-30923**
+  - **Link:** [NVD Detail](https://nvd.nist.gov/vuln/detail/CVE-2024-30923)
+  - **Description:** SQL Injection vulnerability in DerbyNet v9.0 and below allows a remote attacker to execute arbitrary code via the where Clause in Racer Document Rendering.
+
+- **CVE-2024-30924**
+  - **Link:** [NVD Detail](https://nvd.nist.gov/vuln/detail/CVE-2024-30924)
+  - **Description:** Cross Site Scripting vulnerability in DerbyNet v9.0 and below allows attackers to execute arbitrary code via the checkin.php component.
+
+- **CVE-2024-30925**
+  - **Link:** [NVD Detail](https://nvd.nist.gov/vuln/detail/CVE-2024-30925)
+  - **Description:** Cross Site Scripting vulnerability in DerbyNet v9.0 and below allows attackers to execute arbitrary code via the photo-thumbs.php component.
+
+- **CVE-2024-30926**
+  - **Link:** [NVD Detail](https://nvd.nist.gov/vuln/detail/CVE-2024-30926)
+  - **Description:** Cross Site Scripting vulnerability in DerbyNet v9.0 and below allows attackers to execute arbitrary code via the ./inc/kiosks.inc component.
+
+- **CVE-2024-30927**
+  - **Link:** [NVD Detail](https://nvd.nist.gov/vuln/detail/CVE-2024-30927)
+  - **Description:** Cross Site Scripting vulnerability in DerbyNet v9.0 and below allows attackers to execute arbitrary code via the racer-results.php component.
+
+- **CVE-2024-30928**
+  - **Link:** [NVD Detail](https://nvd.nist.gov/vuln/detail/CVE-2024-30928)
+  - **Description:** SQL Injection vulnerability in DerbyNet v9.0 and below allows attackers to execute arbitrary SQL commands via 'classids' Parameter in ajax/query.slide.next.inc
+
+- **CVE-2024-30929**
+  - **Link:** [NVD Detail](https://nvd.nist.gov/vuln/detail/CVE-2024-30929)
+  - **Description:** Cross Site Scripting vulnerability in DerbyNet v9.0 and below allows attackers to execute arbitrary code via the 'back' Parameter in playlist.php
 
 - **CVE-2024-31818**
   - **Link:** [NVD Detail](https://nvd.nist.gov/vuln/detail/CVE-2024-31818)
