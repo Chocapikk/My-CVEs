@@ -1,4 +1,4 @@
-## 18 CVEs
+## 19 CVEs
 
 - **CVE-2023-50917**
   - **Link:** [NVD Detail](https://nvd.nist.gov/vuln/detail/CVE-2023-50917)
@@ -39,3 +39,7 @@
 - **CVE-2024-31819**
   - **Link:** [NVD Detail](https://nvd.nist.gov/vuln/detail/CVE-2024-31819)
   - **Description:** An issue in WWBN AVideo v.12.4 through v.14.2 allows a remote attacker to execute arbitrary code via the systemRootPath parameter of the submitIndex.php component.
+
+- **CVE-2024-3032**
+  - **Links:** [NVD Detail](https://nvd.nist.gov/vuln/detail/CVE-2024-31819) [WPScan](https://wpscan.com/vulnerability/d130a60c-c36b-4994-9b0e-e52cd7f99387)
+  - **Description:** Themify Builder < 7.5.8 does not validate a parameter before redirecting the user to its value, leading to an Open Redirect issue
