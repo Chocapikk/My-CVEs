@@ -86,4 +86,4 @@
 
 - **CVE-2024-35374**
   - **Links:** [NVD Detail](https://nvd.nist.gov/vuln/detail/CVE-2024-35374)
-  - **Description:** Mocodo Mocodo Online 4.2.6 and below does not properly sanitize the sql_case input field in /web/generate.php, leading to remote code execution (RCE).
+  - **Description:** Mocodo Online 4.2.6 and below does not properly sanitize the sql_case input field in /web/generate.php, leading to remote code execution (RCE).
