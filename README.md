@@ -1,4 +1,4 @@
-## 21 CVEs
+## 24 CVEs
 
 - **CVE-2023-50917**
   - **Link:** [NVD Detail](https://nvd.nist.gov/vuln/detail/CVE-2023-50917)
@@ -87,3 +87,11 @@
 - **CVE-2024-35374**
   - **Links:** [NVD Detail](https://nvd.nist.gov/vuln/detail/CVE-2024-35374)
   - **Description:** Mocodo Online 4.2.6 and below does not properly sanitize the sql_case input field in /web/generate.php, leading to remote code execution (RCE).
+
+- **CVE-2025-2609**
+  - **Links:** [NVD Detail](https://nvd.nist.gov/vuln/detail/CVE-2025-2609) · [VulnCheck Advisory](https://vulncheck.com/advisories/magnusbilling-logs-xss)
+  - **Description:** MagnusBilling 7.3.0 and lower is vulnerable to an unauthenticated stored XSS via the login logs feature. Malicious input submitted as a username during login is stored and later executed in the admin context.
+
+- **CVE-2025-2610**
+  - **Links:** [NVD Detail](https://nvd.nist.gov/vuln/detail/CVE-2025-2610) · [VulnCheck Advisory](https://vulncheck.com/advisories/magnusbilling-alarm-xss)
+  - **Description:** MagnusBilling 7.3.0 and lower contains a stored XSS vulnerability in the Alarm module. Unsanitized message fields can lead to arbitrary JavaScript execution when viewed by an administrator.
