@@ -1,4 +1,4 @@
-## 24 CVEs
+## 28 CVEs
 
 - **CVE-2023-50917**
   - **Link:** [NVD Detail](https://nvd.nist.gov/vuln/detail/CVE-2023-50917)
@@ -95,3 +95,19 @@
 - **CVE-2025-2610**
   - **Links:** [NVD Detail](https://nvd.nist.gov/vuln/detail/CVE-2025-2610) · [VulnCheck Advisory](https://vulncheck.com/advisories/magnusbilling-alarm-xss)
   - **Description:** MagnusBilling 7.3.0 and lower contains a stored XSS vulnerability in the Alarm module. Unsanitized message fields can lead to arbitrary JavaScript execution when viewed by an administrator.
+
+- **CVE-2025-2292**
+  - **Links:** [NVD Detail](https://www.cve.org/CVERecord?id=CVE-2025-2292) · [VulnCheck Advisory](https://vulncheck.com/advisories/completepbx-file-disclosure)
+  - **Description:** Xorcom CompletePBX <= 5.2.35 is vulnerable to authenticated file disclosure, allowing access to sensitive files through crafted requests.
+
+- **CVE-2025-30004**
+  - **Links:** [NVD Detail](https://www.cve.org/CVERecord?id=CVE-2025-30004) · [VulnCheck Advisory](https://vulncheck.com/advisories/completepbx-authenticated-command-injection)
+  - **Description:** Xorcom CompletePBX <= 5.2.35 contains an authenticated command injection vulnerability, leading to remote code execution via system commands.
+
+- **CVE-2025-30005**
+  - **Links:** [NVD Detail](https://www.cve.org/CVERecord?id=CVE-2025-30005) · [VulnCheck Advisory](https://vulncheck.com/advisories/completepbx-path-traversal-file-deletion)
+  - **Description:** Xorcom CompletePBX <= 5.2.35 is affected by an authenticated path traversal vulnerability allowing file deletion and access to arbitrary files.
+
+- **CVE-2025-30006**
+  - **Links:** [NVD Detail](https://www.cve.org/CVERecord?id=CVE-2025-30006) · [VulnCheck Advisory](https://vulncheck.com/advisories/completepbx-reflected-xss)
+  - **Description:** Xorcom CompletePBX 5.2.35 is vulnerable to an authenticated reflected XSS, allowing JavaScript injection via crafted input.
